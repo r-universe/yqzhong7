@@ -1,0 +1,58 @@
+[
+  {
+    "package": "hal9001",
+    "url": "https://github.com/tlverse/hal9001",
+    "via": ["AIPW", "sl3"],
+    "branch": "devel",
+    "from": "AIPW"
+  },
+  {
+    "package": "hal9001",
+    "url": "https://github.com/tlverse/hal9001",
+    "via": ["AIPW", "tmle3", "sl3"],
+    "branch": "devel",
+    "from": "AIPW"
+  },
+  {
+    "package": "haldensify",
+    "url": "https://github.com/nhejazi/haldensify",
+    "via": ["AIPW", "sl3"],
+    "from": "AIPW"
+  },
+  {
+    "package": "haldensify",
+    "url": "https://github.com/nhejazi/haldensify",
+    "via": ["AIPW", "tmle3", "sl3"],
+    "from": "AIPW"
+  },
+  {
+    "package": "origami",
+    "url": "https://github.com/tlverse/origami",
+    "via": ["AIPW", "sl3"],
+    "from": "AIPW"
+  },
+  {
+    "package": "origami",
+    "url": "https://github.com/tlverse/origami",
+    "via": ["AIPW", "tmle3", "sl3"],
+    "from": "AIPW"
+  },
+  {
+    "package": "sl3",
+    "url": "https://github.com/tlverse/sl3",
+    "via": ["AIPW"],
+    "from": "AIPW"
+  },
+  {
+    "package": "sl3",
+    "url": "https://github.com/tlverse/sl3",
+    "via": ["AIPW", "tmle3"],
+    "from": "AIPW"
+  },
+  {
+    "package": "tmle3",
+    "url": "https://github.com/tlverse/tmle3",
+    "via": ["AIPW"],
+    "from": "AIPW"
+  }
+]
