@@ -1,36 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "AIPW"]
 	path = AIPW
 	url = https://github.com/yqzhong7/aipw
-	shallow = true
-	registered = true
 [submodule "hal9001"]
 	path = hal9001
 	url = https://github.com/tlverse/hal9001
-	shallow = true
 	branch = devel
 	registered = false
 [submodule "haldensify"]
 	path = haldensify
 	url = https://github.com/nhejazi/haldensify
-	shallow = true
 	registered = false
 [submodule "origami"]
 	path = origami
 	url = https://github.com/tlverse/origami
-	shallow = true
 	registered = false
 [submodule "sl3"]
 	path = sl3
 	url = https://github.com/tlverse/sl3
-	shallow = true
 	registered = false
 [submodule "tmle3"]
 	path = tmle3
 	url = https://github.com/tlverse/tmle3
-	shallow = true
 	registered = false
