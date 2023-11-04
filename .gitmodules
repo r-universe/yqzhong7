@@ -5,24 +5,3 @@
 [submodule "AIPW"]
 	path = AIPW
 	url = https://github.com/yqzhong7/aipw
-[submodule "hal9001"]
-	path = hal9001
-	url = https://github.com/tlverse/hal9001
-	branch = devel
-	registered = false
-[submodule "haldensify"]
-	path = haldensify
-	url = https://github.com/nhejazi/haldensify
-	registered = false
-[submodule "origami"]
-	path = origami
-	url = https://github.com/tlverse/origami
-	registered = false
-[submodule "sl3"]
-	path = sl3
-	url = https://github.com/tlverse/sl3
-	registered = false
-[submodule "tmle3"]
-	path = tmle3
-	url = https://github.com/tlverse/tmle3
-	registered = false
